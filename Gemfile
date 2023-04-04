@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
 
-gem "coveralls", "0.8.2"
+gem "coveralls", "0.8.14"
 gem "rspec"
-gem "rake"
+gem "rake", ">= 12.3.3"
